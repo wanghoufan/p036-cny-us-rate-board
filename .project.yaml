@@ -1,0 +1,12 @@
+# 项目机器身份 — 由 Project Steward 生成，请勿删除
+project_id: P036
+name_zh: 中美汇率看板
+slug: cny-us-rate-board
+status: ing
+github: wanghoufan/p036-cny-us-rate-board
+visibility: public
+created_at: 2026-09-27T18:11:40+08:00
+local_path: /Users/zzymima0000/Developer/coding/1.Active/036-ing-中美汇率看板
+default_branch: main
+repo_role: primary
+lifecycle: [ing, paused, done, archived]
